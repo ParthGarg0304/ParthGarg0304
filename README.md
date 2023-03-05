@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthGarg
 - 👀 I’m interested in Coding/theatre and dramatics
-- 🌱 I’m currently learning C/Python
+- 🌱 I’m currently learning C/Python/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email pg6295@srmist.edu.in //  parthgarg.official@gmail.com
 
