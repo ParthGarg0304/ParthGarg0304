@@ -4,7 +4,8 @@
 - 💞️ I have interest in backend/web dev and am eager to learn
 - 📫 How to reach me email pg6295@srmist.edu.in //  parthgarg.official@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthGarg0304&theme=tokyonight)
+
 
 
 <!---
