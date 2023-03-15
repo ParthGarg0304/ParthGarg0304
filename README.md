@@ -1,7 +1,12 @@
+
+
 - 👋 Hi, I’m @ParthGarg
 - 👀 I’m interested in Coding/theatre and dramatics
 - 🌱 I’m currently learning C/Python/c++
 - 💞️ I have interest in backend/web dev and am eager to learn
+
+
+                   I am always open to learning and new exeriences.
 
 
 <p align="center">
