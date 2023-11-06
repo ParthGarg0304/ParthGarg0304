@@ -1,8 +1,8 @@
 
 
 - 👋 Hi, I’m @ParthGarg
-- 👀 I’m interested in Coding/theatre and dramatics
-- 🌱 I’m currently learning C/Python/c++
+- 👀 I’m interested in Coding and theatre and dramatics
+- 🌱 I’m currently learning WebDev/Java/C/Python
 - 💞️ I have interest in backend/web dev and am eager to learn
 
 
