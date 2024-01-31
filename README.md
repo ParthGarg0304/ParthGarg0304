@@ -4,7 +4,7 @@ ML, Fullstack development and data science enthusiast
 CSE Sophmore at SRM Institute of Science and Technology Chennai.
 - 👀 I’m interested in exploring things also theatre and dramatics
 - Reach me https://parthgarg0304.github.io/Portfolio/
-- 
+  
 ## Languages and tools used
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white"><img/>
