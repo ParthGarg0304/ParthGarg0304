@@ -68,5 +68,9 @@ CSE Sophmore at SRM Institute of Science and Technology Chennai.
   ```
 -->   
    <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=ParthGarg0304.visitor-badge" alt="Visitors Badge"><img/>
-   <p/>
+     [![](https://visitcount.itsvg.in/api?id=ParthGarg0304&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
+     <p/>
+
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ParthGarg0304&label=Profile%20Views&icon=2&pretty=false" />
+</a>
