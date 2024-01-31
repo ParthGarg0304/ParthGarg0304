@@ -65,11 +65,8 @@ CSE Sophmore at SRM Institute of Science and Technology Chennai.
   Quoted back in 1592, still a cliche in 2022.
   
   I say "Explorer of all Trades, Master of One".
-  ```
--->   
-   <p align="center">
-     [![](https://visitcount.itsvg.in/api?id=ParthGarg0304&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
-     <p/>
+  '''
+-->
 
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ParthGarg0304&label=Profile%20Views&icon=2&pretty=false" />
