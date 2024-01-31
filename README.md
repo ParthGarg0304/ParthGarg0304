@@ -1,9 +1,10 @@
 
+ML, Fullstack development and data science enthusiast
 
-- 👋 Hi, I’m @ParthGarg
-- 👀 I’m interested in Coding and theatre and dramatics
-- 🌱 I’m currently learning WebDev/Java/C/Python
-- 💞️ I have interest in backend/web dev and am eager to learn
+CSE Sophmore at SRM Institute of Science and Technology Chennai.
+- 👀 I’m interested in exploring things also theatre and dramatics
+- Reach me https://parthgarg0304.github.io/Portfolio/
+- 
 ## Languages and tools used
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white"><img/>
