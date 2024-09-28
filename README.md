@@ -1,7 +1,7 @@
 
 ML, Fullstack development and data science enthusiast
 
-CSE Sophmore at SRM Institute of Science and Technology Chennai.
+CSE Pre-Final Student at SRM Institute of Science and Technology Chennai.
 - 👀 I’m interested in exploring things also theatre and dramatics
 - Reach me https://parthgarg0304.github.io/Portfolio/
   
